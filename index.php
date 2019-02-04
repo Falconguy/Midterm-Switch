@@ -15,4 +15,4 @@ switch ($favcolor) {
         echo "Your favorite color is neither red, blue, nor green!";
 }
 ?>
-//
+/////
